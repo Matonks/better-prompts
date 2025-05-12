@@ -1,4 +1,4 @@
-# 🤖 GPT-4o Copy & Comms Assistants
+# 🤖 GPT-4o & More To Come...
 
 A collection of specialized GPT-4o-powered writing and dev assistants built for real-world production tasks — from UX copy and learning roadmaps to internal comms, pitch decks, and AI-enhanced coding environments.
 
