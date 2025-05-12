@@ -1,7 +1,7 @@
 # 🤖 GPT-4o & More to come
 A collection of highly specialized GPT-4o-powered writing agents designed for modern content workflows — from internal comms and UX copy to educational planning and operations documentation.
 
-Each assistant is fine-tuned for a unique role and comes with clear prompt guidance, capabilities, formatting rules, and tone defaults. Ideal for teams, startups, and individual creators looking to supercharge writing with AI.
+Each assistant is fine-tuned for a unique role and comes with clear prompt guidance, capabilities, formatting rules, and tone defaults.
 
 ---
 
