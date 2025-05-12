@@ -1,6 +1,6 @@
 # 🤖 GPT-4o & More To Come...
 
-A collection of specialized GPT-4o-powered writing and dev assistants built for real-world production tasks — from UX copy and learning roadmaps to internal comms, pitch decks, and AI-enhanced coding environments.
+A collection of specialized GPT-4o-powered writing and dev assistants built for real-world production tasks, from UX copy and learning roadmaps to internal comms, pitch decks, and AI-enhanced coding environments.
 
 Each `.txt` file contains a fully structured system prompt designed for use in tools like ChatGPT Custom GPTs, Cursor, or Vercel's v0.
 
@@ -34,7 +34,7 @@ Each `.txt` file contains a fully structured system prompt designed for use in t
 
 ## 🧪 Use Case Examples
 
-- Build a GPT-4o agent that tutors Python and writes flashcards → Use **LearnBot**
+- Build a GPT-4o agent that tutors anything and writes flashcards → Use **LearnBot**
 - Turn messy meeting notes into clear SOPs → Use **OpsDoc**
 - Generate precise microcopy for form errors or modals → Use **Synthetix**
 - Auto-write pitch decks with persuasive speaker notes → Use **Scripta: Pitch Decks**
